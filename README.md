@@ -51,7 +51,7 @@ This project predicts Singapore HDB resale flat prices using machine learning (R
   ## Streamlit App ScreenShots
 ![image_alt](https://github.com/pavani-chenna/HDB-Resale-Price-Prediction-System/blob/e109a6562831290aef3dd78d461a0a30450960b2/Screenshot%20(23).png)
 
-![image_alt](https://github.com/pavani-chenna/HDB-Resale-Price-Prediction-System/blob/e109a6562831290aef3dd78d461a0a30450960b2/Screenshot%20(23).png)
+![image_alt](https://github.com/pavani-chenna/HDB-Resale-Price-Prediction-System/blob/7dacf1d6cef7b0b9064ee2f0d0996a94d89123e9/Screenshot%20(24).png)
 
 ## Author
 
