@@ -48,6 +48,9 @@ This project predicts Singapore HDB resale flat prices using machine learning (R
 - The app predicts resale prices based on historical HDB data from 1990 onwards.  
 - This project is intended for educational and personal use.
 
+  ## Streamlit App ScreenShots
+![image_alt](https://github.com/pavani-chenna/Exploratory-Data-Analysis-Project/blob/dc692bc8b3d6dc948aabe9e83210dd017db24d09/Screenshot%20(8).png)
+
 ## Author
 
 **Chenna Pavani**  
