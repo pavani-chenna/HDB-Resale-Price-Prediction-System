@@ -29,16 +29,17 @@ This project predicts Singapore HDB resale flat prices using machine learning (R
 
 ## Model Details
 
-- **Algorithm:** Random Forest Regressor  
-- **Evaluation Metrics:**  
-  - Mean Absolute Error (MAE)  
-  - Mean Squared Error (MSE)  
-  - Root Mean Squared Error (RMSE)  
-  - R² Score  
-- **Feature Engineering:**  
-  - Converted categorical variables using Label Encoding  
-  - Storey range converted to midpoint  
-  - Remaining lease converted to numeric years  
+- **Algorithm:** Random Forest Regressor
+- **Evaluation Metrics:**
+  - Mean Absolute Error (MAE)
+  - Mean Squared Error (MSE)
+  - Root Mean Squared Error (RMSE)
+  - R² Score: 0.92
+- **Feature Engineering:**
+  - Converted categorical variables using Label Encoding
+  - Storey range converted to midpoint
+  - Remaining lease converted to numeric years
+ 
 
 ## Notes
 
