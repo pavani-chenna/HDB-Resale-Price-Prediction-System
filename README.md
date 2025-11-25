@@ -34,7 +34,7 @@ This project predicts Singapore HDB resale flat prices using machine learning (R
   - Mean Absolute Error (MAE)
   - Mean Squared Error (MSE)
   - Root Mean Squared Error (RMSE)
-  - R² Score: 0.92
+  - R² Score: 0.97
 - **Feature Engineering:**
   - Converted categorical variables using Label Encoding
   - Storey range converted to midpoint
