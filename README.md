@@ -14,18 +14,11 @@ This project predicts Singapore HDB resale flat prices using machine learning (R
 - `encoded_town.pkl` – Label encoder for town.
 - `flat_type_encoded.pkl` – Label encoder for flat type.
 
-## Setup Instructions
-1. Install dependencies:
 
-```bash
-pip install streamlit pandas numpy scikit-learn joblib
 
 ## Run the Streamlit App
+- streamlit run app.py
 
-1. Run the Streamlit app:
-
-```bash
-streamlit run app.py
 
 ## How to Use the App
 
@@ -53,6 +46,12 @@ streamlit run app.py
 - Ensure **storey range** format is correct (e.g., `10 TO 12`) for accurate prediction.  
 - The app predicts resale prices based on historical HDB data from 1990 onwards.  
 - This project is intended for educational and personal use.
+
+## Author
+
+**Chenna Pavani**  
+Email: cpavani6146@gmail.com  
+GitHub: [https://github.com/pavani-chenna](https://github.com/yourusername)
 
 
 
