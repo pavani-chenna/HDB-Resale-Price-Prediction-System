@@ -51,7 +51,7 @@ This project predicts Singapore HDB resale flat prices using machine learning (R
 
 **Chenna Pavani**  
 Email: cpavani6146@gmail.com  
-GitHub: [https://github.com/pavani-chenna](https://github.com/yourusername)
+GitHub: [https://github.com/pavani-chenna](https://github.com/pavani-chenna/HDB-Resale-Price-Prediction-System/blob/main/Pavani_Capestone.ipynb)
 
 
 
